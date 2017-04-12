@@ -1,0 +1,59 @@
+html { 
+  background: url(http://wallpapercave.com/wp/Fo1rRlr.jpg) ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+	font-family: Comic Sans MS, cursive, Serif;
+	color: #000000;
+}
+
+.app {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+div {
+	padding-left: 100px;
+}
+
+button {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 15px;
+width: 100px;
+height: 60px;
+background-color: white;
+font-family: Comic Sans MS, cursive, Serif;
+font-size: 20px;
+}
+
+.overall-score {
+  text-align: center;
+}
+button:hover {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+img {
+float : right;  
+height: 300px;
+width: 300px;
+}
+
+
+.hidden {
+	display: none;
+}
