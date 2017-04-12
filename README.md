@@ -12,10 +12,10 @@ Use this app to prove your Simpsons knowledge. Answer 5 questions and receive ri
 
 Tech Stack
 
-├── HTML: UI Structure
-├── CSS: UI Style
-├── JavaScript: UI Logic
-├── jQuery: UI DOM Traversal and Manipulation
+ HTML: UI Structure
+ CSS: UI Style
+ JavaScript: UI Logic
+ jQuery: UI DOM Traversal and Manipulation
 Requirements/Installation
 
 Runs in the browser.
