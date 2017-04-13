@@ -27,14 +27,14 @@ var state = {
         	questionNumber: 4,
         	questionText: "What is the name of Peter's favorite bar?",
         	questionAnswers: ["The inebriated clam" , "The clam", "The stupid clam", "The drunken clam"],
-            correctAnswer: "0",
+            correctAnswer: "3",
             correctAnswerText: "The drunken clam.",
         },
         {
         	questionNumber: 5,
         	questionText: "What street do the Griffin's live on? ",
         	questionAnswers: ["Patriot Lane" , "Royal Road" ,"Spooner Street" ,"Edmund Boulevard"],
-            correctAnswer: "0",
+            correctAnswer: "2",
             correctAnswerText: "Spooner Street.",
         }
  ],
