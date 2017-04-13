@@ -10,7 +10,7 @@ Screenshot<img width="1440" alt="screen shot 2017-04-12 at 12 03 16 pm" src="htt
 
 UX
 
-Use this app to prove your Simpsons knowledge. Answer 5 questions and receive right or wrong feedback for each question. You cannot skip a question without answering. After the 5th question you'll receive your final score and the option to start over
+Use this app to use your knowledge for Family Guy. Answer 5 questions and receive right or wrong feedback for each question. You cannot skip a question without answering. After the 5th question you'll receive your final score and the option to start over
 
 Tech Stack
 
